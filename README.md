@@ -13,5 +13,5 @@ Stuff about growth mindset.
 - Reminder 2
 - Reminder 3
 
-Link to my GitHub porfolio: [(https://github.com/s-glass)]
+[Link](https://github.com/s-glass) to my GitHub porfolio: [https://github.com/s-glass](https://github.com/s-glass)
 
