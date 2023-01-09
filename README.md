@@ -14,10 +14,6 @@ In my professional life, prioritizing a growth mindset means that I'll be able t
 - **Reminder 3:** Remember that [Beyoncé](https://beyonce.com/) definitely has a growth mindset, and that her talent plus the skills she's learned over the years are what have made her excel as an artist. 👑 🐝
 
 ![The Queen of growth and my heart.](https://upload.wikimedia.org/wikipedia/commons/1/18/Beyonc%C3%A9_Black_Is_King_Still.png)
-
-![Queen Bey](https://lt.wikipedia.org/wiki/Vaizdas:Beyonce_Formation.jpg)
-
-<img width="40%" height=:40%" src="Beyoncé_Black_Is_King_Still.png>
                                                                                                                                
   > "I can never be safe; I always try and go against the grain. As soon as I accomplish one thing, I just set a higher goal. That's how I've gotten to where I am." - Beyoncé Giselle Knowles-Carter [^1]                                                                                               
 
