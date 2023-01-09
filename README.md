@@ -2,7 +2,7 @@
 My reading journal for Code Fellows.
 
 ## Intro
-Hello, I'm Sarah (she/her) :wave:. I'm making a career pivot to software development from social work/education/digital marketing.
+Hello, I'm Sarah (she/her). :wave: I'm making a career pivot to software development from social work/education/digital marketing.
 [Here's the link to my GitHub porfolio.](https://github.com/s-glass)
 
 ![Growth takes time and effort.](https://live.staticflickr.com/5136/5465731118_458b01573b_n.jpg)
