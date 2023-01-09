@@ -1,7 +1,7 @@
 # reading-notes
 My reading journal for Code Fellows.
 
-![headshot photo](headshot_small.jpg)
+![headshot](headshot_small.jpg)
 
 ## Intro
 Hello, I'm Sarah (she/her) :wave: . I'm making a career pivot to software development from social work/education/digital marketing.
