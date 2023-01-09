@@ -1,6 +1,8 @@
 # reading-notes
 My reading journal for Code Fellows.
 
+![headshot photo](headshot_small.jpg)
+
 ## Intro
 Hello, I'm Sarah (she/her) :wave: . I'm making a career pivot to software development from social work/education/digital marketing.
 [Here's the link to my GitHub porfolio.](https://github.com/s-glass)
@@ -19,7 +21,8 @@ In my professional life, prioritizing a growth mindset means that I'll be able t
 - **Reminder 2:** Remember that growth is inevitable, and that staying still is boring. 
 - **Reminder 3:** Remember that [Beyoncé](https://beyonce.com/) definitely has a growth mindset, and that her talent plus the skills she's learned over the years are what have made her excel as an artist. 👑 🐝
 
-![The Queen of growth and my heart.](https://upload.wikimedia.org/wikipedia/commons/1/18/Beyonc%C3%A9_Black_Is_King_Still.png)
+
+![The Queen of growth and my heart](Beyoncé_Black_Is_King_Still.jpg)
                                                                                                                                
   > "I can never be safe; I always try and go against the grain. As soon as I accomplish one thing, I just set a higher goal. That's how I've gotten to where I am." - Beyoncé Giselle Knowles-Carter [^2]                                                                                               
 
