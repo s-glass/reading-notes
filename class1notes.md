@@ -5,7 +5,7 @@
 * [Markdown For GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Video: GitHub Pages](https://pages.github.com/)
 
-As the links above have entire indices on Markup syntax, I'd like to use this spce to focus on summary (and not recreate the syntax tables).
+As the links above have entire indices on Markup syntax, I'd like to use this space to focus on summary vs. recreating the syntax tables.
 
 ## Why Markdown Matters ##
 
@@ -14,14 +14,16 @@ As the links above have entire indices on Markup syntax, I'd like to use this sp
 [^1]: See: https://meangirls.fandom.com/wiki/Toaster_Strudel#:~:text=Toaster%20Strudel%20is%20a%20toaster,to%20get%20out%20of%20trouble.
 [^2]: Source: https://www.thebrain.com/blog/markdown-vs-html
 
-Markdown is an important tool in learding code because xyz
+Markdown is an important tool in learning code because its format is easy to read, type, and parse - which also means it's easy to learn. The ease of use for this syntax has made it a popular choice for many writers and publishing tools. [^2]
 
-It's an important tool in working with GitHub because xyz
+As GitHub's repository-to-Pages system is designed to make sharing "your portfolio, your projects, your documentaiton, or anything else you want to share with the world" [^3] seamless and easy (and without having to deal with databases or servers), I think the ability to also use Markup in GitHub's repositories makes a lot of sense. It creates a way for beginners to dive in and create a web page with as little trouble as possible. 
+
+[^3]: Source: https://pages.github.com/
 
 
 ## An Analogy ##
 
-In my opinion, markdown is to HTML and other coding languages what Microsoft Paint is to Photoshop and other graphics editors. Paint is simple, straightfoward, and intuitive, whereas other graphics editors take time and specific knowledge to master. In this way, I feel that Markdown is a simplel, straightforward, and intuitive way to create formatted text.
+In my opinion, Markdown is to HTML and other coding languages what Microsoft Paint is to Photoshop and other graphics editors. Paint is simple, straightfoward, and intuitive, whereas other graphics editors take time and specific knowledge to master. In this way, I feel that Markdown is a simplel, straightforward, and intuitive way to create formatted text.
 
 ![Paint FTW](paint.jpg)
 
