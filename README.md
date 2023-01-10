@@ -12,7 +12,7 @@ Hello, I'm Sarah (she/her) 👋. I'm making a career pivot to software developme
 ## Growth Mindset
 Having a growth mindset means that you believe that abilities come from dedication and hard work, as opposed to a fixed mindset, which believes qualities are fixed and success can come from talent alone. [^1]
 
-[^1]: Source: https://www.atlassian.com/blog/inside-atlassian/growth-mindset
+[^1]: Source: [https://www.atlassian.com/blog/inside-atlassian/growth-mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 In my professional life, prioritizing a growth mindset means that I'll be able to continually build skills and adapt to each work environment. 
 
@@ -26,7 +26,7 @@ In my professional life, prioritizing a growth mindset means that I'll be able t
 ![The Queen Bey](https://upload.wikimedia.org/wikipedia/commons/1/18/Beyonc%C3%A9_Black_Is_King_Still.png)
                                                                                                                                                                                                            
 
-[^2]: Quote from https://www.inc.com/peter-economy/17-of-most-inspirational-quotes-from-beyonce-business-genius-music-superstar.html
+[^2]: Quote from [https://www.inc.com/peter-economy/17-of-most-inspirational-quotes-from-beyonce-business-genius-music-superstar.html](https://www.inc.com/peter-economy/17-of-most-inspirational-quotes-from-beyonce-business-genius-music-superstar.html)
 
 
 
