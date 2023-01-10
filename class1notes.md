@@ -5,6 +5,8 @@
 * [Markdown For GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Video: GitHub Pages](https://pages.github.com/)
 
+As the links above have entire indices on Markup syntax, I'd like to use this spce to focus on summary (and not recreate the syntax tables).
+
 ## Why Markdown Matters ##
 
 > "The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions." - John Gruber, the inventor of ~~Toaster Strudel~~[^1] Markdown's parser and specification [^2]
@@ -19,7 +21,7 @@ It's an important tool in working with GitHub because xyz
 
 ## An Analogy ##
 
-In my opinion, markdown is to HTML and other coding languages what Microsoft Paint is to Photoshop and other graphics editors. Paint is simple, straightfoward, and intuitive, whereas other graphics editors take time and extra knowledge to master. In this way, I feel that Markdown is a simplel, straightforward, and intuitive way to create formatted text.
+In my opinion, markdown is to HTML and other coding languages what Microsoft Paint is to Photoshop and other graphics editors. Paint is simple, straightfoward, and intuitive, whereas other graphics editors take time and specific knowledge to master. In this way, I feel that Markdown is a simplel, straightforward, and intuitive way to create formatted text.
 
 ![Paint FTW](paint.jpg)
 
