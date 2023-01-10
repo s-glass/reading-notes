@@ -23,7 +23,7 @@ As GitHub's repository-to-Pages system is designed to make sharing "your portfol
 
 ## An Analogy ##
 
-In my opinion, Markdown is to HTML and other coding languages what Microsoft Paint is to Photoshop and other graphics editors. Paint is simple, straightfoward, and intuitive, whereas other graphics editors take time and specific knowledge to master. In this way, I feel that Markdown is a simplel, straightforward, and intuitive way to create formatted text.
+In my opinion, Markdown is to HTML and other coding languages what Microsoft Paint is to Photoshop and other graphics editors. Paint is simple, straightfoward, and intuitive, whereas other graphics editors take time and specific knowledge to master. In this way, I feel that Markdown is a simple, straightforward, and intuitive way to create formatted text.
 
 ![Paint FTW](paint.jpg)
 
