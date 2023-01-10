@@ -21,10 +21,10 @@ In my professional life, prioritizing a growth mindset means that I'll be able t
 - **Reminder 2:** Remember that growth is inevitable, and that staying still is boring. 
 - **Reminder 3:** Remember that [Beyoncé](https://beyonce.com/) definitely has a growth mindset, and that her talent plus the skills she's learned over the years are what have made her excel as an artist. 👑 🐝
 
+  > "I can never be safe; I always try and go against the grain. As soon as I accomplish one thing, I just set a higher goal. That's how I've gotten to where I am." - Beyoncé Giselle Knowles-Carter [^2]       
 
 ![The Queen Bey](https://upload.wikimedia.org/wikipedia/commons/1/18/Beyonc%C3%A9_Black_Is_King_Still.png)
-                                                                                                                               
-  > "I can never be safe; I always try and go against the grain. As soon as I accomplish one thing, I just set a higher goal. That's how I've gotten to where I am." - Beyoncé Giselle Knowles-Carter [^2]                                                                                               
+                                                                                                                                                                                                           
 
 [^2]: Quote from https://www.inc.com/peter-economy/17-of-most-inspirational-quotes-from-beyonce-business-genius-music-superstar.html
 
