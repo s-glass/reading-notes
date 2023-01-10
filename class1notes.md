@@ -16,7 +16,7 @@ As the links above have entire indices on Markup syntax, I'd like to use this sp
 
 Markdown is an important tool in learning code because its format is easy to read, type, and parse - which also means it's easy to learn. The ease of use for this syntax has made it a popular choice for many writers and publishing tools. [^2]
 
-As GitHub's repository-to-Pages system is designed to make sharing "your portfolio, your projects, your documentaiton, or anything else you want to share with the world" [^3] seamless and easy (and without having to deal with databases or servers), I think the ability to also use Markup in GitHub's repositories makes a lot of sense. It creates a way for beginners to dive in and create a web page with as little trouble as possible. 
+As GitHub's repository-to-Pages system is designed to make sharing "your portfolio, your projects, your documentation, or anything else you want to share with the world" [^3] seamless and easy (and without having to deal with databases or servers), I think the ability to also use Markup in GitHub's repositories makes a lot of sense. It creates a way for beginners to dive in and create a web page with as little trouble as possible. 
 
 [^3]: Source: [https://pages.github.com/](https://pages.github.com/)
 
