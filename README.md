@@ -1,4 +1,4 @@
-# reading-notes
+ps# reading-notes
 My reading journal for Code Fellows.
 
 ![headshot](headshot_small.jpg)
