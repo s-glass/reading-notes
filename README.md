@@ -5,7 +5,7 @@
 Hello, I'm Sarah (she/her) 👋. I'm making a career pivot to software development from social work/education/digital marketing.
 [Here's the link to my GitHub porfolio.](https://github.com/s-glass)
 
-![Lots of Notes](https://upload.wikimedia.org/wikipedia/commons/5/59/Pen-writing-notes-studying.jpg)
+![Lots of Notes](notes.jpg)
 
 ## What This Site Is About
 This site is created to host all of my reading notes for courses at Code Fellows.
