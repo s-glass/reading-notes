@@ -110,3 +110,6 @@ From the source above:
 5. Semantic naming mirrors custom element/component naming
 
 Live URL: [https://s-glass.github.io/reading-notes/102/class4notes](https://s-glass.github.io/reading-notes/102/class4notes)
+
+## Things I Want To Know More About ##
+All questions answered!
