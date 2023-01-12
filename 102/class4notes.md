@@ -109,7 +109,7 @@ From the source above:
 4. Suggests to the dev the type of data expected to be populated
 5. Semantic naming mirrors custom element/component naming
 
-Live URL: [https://s-glass.github.io/reading-notes/102/class4notes](https://s-glass.github.io/reading-notes/102/class4notes)
-
 ## Things I Want To Know More About ##
 All questions answered!
+
+Live URL: [https://s-glass.github.io/reading-notes/102/class4notes](https://s-glass.github.io/reading-notes/102/class4notes)
