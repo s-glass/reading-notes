@@ -105,4 +105,4 @@ Source: [https://developer.mozilla.org/en-US/docs/Glossary/Semantics](https://de
 4. Suggests to the dev the type of data expected to be populated
 5. Semantic naming mirrors custom element/component naming
 
-Live URL: [https://s-glass.github.io/reading-notes/102/class1notes](https://s-glass.github.io/reading-notes/102/class1notes)
+Live URL: [https://s-glass.github.io/reading-notes/102/class4notes](https://s-glass.github.io/reading-notes/102/class4notes)
