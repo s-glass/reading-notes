@@ -1,7 +1,7 @@
 
-# class 2 notes - Read: 02 - The Coder's Computer #
+## class 2 notes - Read: 02 - The Coder's Computer ##
 
-### Why text editors matter ##
+## Why text editors matter ##
 Text editors are one of the most important tools for aspiring web developers because they allow the user to write and manage their code. The right features and extensions in a text editor will allow a web developer to create code more easily and efficiently.
 
 ## Choosing a Text Editor ##
@@ -91,4 +91,5 @@ All questions have been answered!
 
 * [https://cheatography.com/davechild/cheat-sheets/linux-command-line/](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 
-Live URL to this page:
+Live URL to this page: [https://s-glass.github.io/reading-notes/102/class2notes](https://s-glass.github.io/reading-notes/102/class2notes)
+
