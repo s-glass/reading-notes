@@ -24,6 +24,7 @@ This site is created to host all of my reading notes for courses at Code Fellows
 * [Class 7 Notes](https://s-glass.github.io/reading-notes/102/class7notes)
 * [Class 8 Notes](https://s-glass.github.io/reading-notes/102/class8notes)
 * [Thoughts and Observations](https://s-glass.github.io/reading-notes/102/thoughts-and-observations)
+* [Growth Mindset Task](https://s-glass.github.io/reading-notes/102/growth-mindset)
 
 ## Code 201 Reading Notes
 
