@@ -23,6 +23,7 @@ This site is created to host all of my reading notes for courses at Code Fellows
 * [Class 6 Notes](https://s-glass.github.io/reading-notes/102/class6notes)
 * [Class 7 Notes](https://s-glass.github.io/reading-notes/102/class7notes)
 * [Class 8 Notes](https://s-glass.github.io/reading-notes/102/class8notes)
+* [Thoughts and Observations]()
 
 ## Code 201 Reading Notes
 
