@@ -1,4 +1,4 @@
-# Class 1 Reading Assignment - Learning Markdown
+# Class 1 Reading Assignment - Learning Markdown #
 
 ## Articles and videos referenced: ##
 * [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/#images-1)
