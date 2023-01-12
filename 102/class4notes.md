@@ -87,9 +87,13 @@ Source: [https://developer.mozilla.org/en-US/docs/Glossary/Semantics](https://de
 
 ### JavaScript
 
+From the source above:
+* "In JavaScript, consider a function that takes a string parameter, and returns an <li> element with that string as its textContent. Would you need to look at the code to understand what the function did if it was called build('Peach'), or createLiWithContent('Peach')?"
 
 ### CSS
 
+From the source above:
+* "In CSS, consider styling a list with li elements representing different types of fruits. Would you know what part of the DOM is being selected with div > ul > li, or .fruits__item?"
 
 ### HTML
 
