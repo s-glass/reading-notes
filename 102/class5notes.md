@@ -1,7 +1,7 @@
 
-# Class 5 Notes
+# Class 5 Notes #
 
-## What is CSS
+## What is CSS ##
 
 Source: [https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 
@@ -29,8 +29,8 @@ Source: [https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_
 
 * Not all browsers have CSS implemented as a feature, so you will need to check implementation status
 
-
-## How to Add CSS
+-----------------------------------------
+## How to Add CSS ##
 
 Source: [https://www.w3schools.com/css/css_howto.asp](https://www.w3schools.com/css/css_howto.asp)
 
