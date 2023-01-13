@@ -147,10 +147,10 @@ let z = x * y;'
 4. **Logical:**
     - Examples:
     - && logical and  |  || logical or  | ! logical not
-5. **Conditional:**
+5. **Conditional**
 6. **Type:**
     - Examples: 
-    _ typeof  returns the type of a variable   |  instanceof  returns true if an object is an instance of an object type
+   - typeof  returns the type of a variable   |  instanceof  returns true if an object is an instance of an object type
 
 
 
@@ -161,4 +161,4 @@ let z = x * y;'
 Nothing at this time. 
 
 
-URL: https://s-glass.github.io/reading-notes/102/class7notes
+URL: [https://s-glass.github.io/reading-notes/102/class7notes](https://s-glass.github.io/reading-notes/102/class7notes)
