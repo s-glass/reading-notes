@@ -61,7 +61,47 @@ Source: [https://www.w3schools.com/css/css_howto.asp](https://www.w3schools.com/
     2. External and internal style sheets (in the head section)
     3. Browser default
 
-
+----------------------------------
 ## CSS Color
 
-Source: 
+Source: [https://www.w3schools.com/cssref/pr_text_color.php](https://www.w3schools.com/cssref/pr_text_color.php)
+
+* Examples:
+
+body {
+    color: red;
+}
+
+h1 {
+    color: #00ff00;
+}
+
+p.ex {
+    color: rgb (0,0,255);
+}
+
+* The **color** property specifies the color of text
+
+* **Syntax**:
+color:  '*color*|initial|inherit;'
+
+* Property Values:
+- Color = specifies the text color
+- Initial - sets this property to its default value
+- Inherit - inherits this property from its parent element.
+
+
+---------------------------------
+
+## Reference Sheets ##
+
+- [https://developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+- [https://meyerweb.com/eric/tools/css/reset/](https://meyerweb.com/eric/tools/css/reset/)
+
+
+### Things I want To Know More About ##
+
+Nothing at this time. 
+
+URL: [https://s-glass.github.io/reading-notes/102/class5notes](https://s-glass.github.io/reading-notes/102/class5notes)
