@@ -14,7 +14,7 @@ Version control allows you to revisit various versions of a file or set of files
 * **Centralized Version Control**: CVCS = centralized version control system, developed because of collaboration on developer teams on a single file or set of files.
 - single server system storing all changes and file versions; can be accessed by various clients
 
-* **Distributed Version Control** DVCS Distrubuted Version Control System addresses the server as a single point of failure; allows clients to create mirrored repositories. These data backups can be easily placed on the server to replace any lost info.
+* **Distributed Version Control** DVCS Distributed Version Control System addresses the server as a single point of failure; allows clients to create mirrored repositories. These data backups can be easily placed on the server to replace any lost info.
 - bypasses issues with a single CVS going down, corruption of a central hard disk, etc.
 
 * **What is Git?**
@@ -28,7 +28,7 @@ Version control allows you to revisit various versions of a file or set of files
     - staged: flagged a file's changed version to be committed in the next snapshot.
 
 ### History of Git ###
- Git comes from the open source software project Linux kernel. Linus Torvalds began creating Git after Linux kernel developers stopped using a DVCS called BitKeeper in 2005. The goal was to achieve non-linear development via multiple branches, that could support large projects, had strong anti-corruption mechanisms, and simmple design. 
+ Git comes from the open source software project Linux kernel. Linus Torvalds began creating Git after Linux kernel developers stopped using a DVCS called BitKeeper in 2005. The goal was to achieve non-linear development via multiple branches, that could support large projects, had strong anti-corruption mechanisms, and simple design. 
 
 
 ### Getting Started ###
@@ -106,11 +106,11 @@ You can create a copy of an existing Git repository by using the clone command w
 
 * **Committing a File**: after staging files, commit using the 'git commit -m "made change xyz"' command
 
-* **Comitting All Changes**: 'git commit -a' commits a snapshot of all modifications to tracked files int he working directory.
+* **Committing All Changes**: 'git commit -a' commits a snapshot of all modifications to tracked files int he working directory.
 
 * **Pushing Changes**: Next, push changes to a remote repository via 'git push origin master'
 
-* **Stashing Changes**: when not ready to commit changes, 'git statsh' temporarily removes changes and hides them, giving you a clean working directory. When ready to continue working on the cahnges, 'git stash apply' command retrieves the hidden changes.
+* **Stashing Changes**: when not ready to commit changes, 'git stash' temporarily removes changes and hides them, giving you a clean working directory. When ready to continue working on the changes, 'git stash apply' command retrieves the hidden changes.
 
 ### Remote Repositories ###
 Collaboration on Git projects requires remote repositories - versions of a project residing online or on a network.
