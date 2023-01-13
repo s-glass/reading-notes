@@ -9,7 +9,7 @@ Source: [https://developer.mozilla.org/en-US/docs/Glossary/Control_flow](https:/
 * Control structures like conditionals and loops can change control flow. 
 * **Conditional structure** is if...else
 * Script can also be set to execute when events occur.
-* **Control flow** means that when you read a script, you need to not only read from stat to finish, but look at progra structure and how it affects order of executiuon.
+* **Control flow** means that when you read a script, you need to not only read from stat to finish, but look at program structure and how it affects order of execution.
 
 
 -----------------------------------------
@@ -28,8 +28,8 @@ function myFunction(p1, p2) {
 }'
 
 ### Function Syntax ###
-* A JS **funciton** is defined wiht the 'function' keyword, followed by a 'name', followed by parentheses '()'.
-* funciton names can contain letters, digits, _ and $
+* A JS **function** is defined with the 'function' keyword, followed by a 'name', followed by parentheses '()'.
+* function names can contain letters, digits, _ and $
 * the parenthesis may include parameter names separated by commas: ex. (parameter1, parameter2,...)
 * the code to be executed by the function is placed in curly brackets {}
 
@@ -75,14 +75,14 @@ Example:
 'function toCelsius(fahrenheit) {
     return (5/9) * (fahrenheit-32);
 }
-document.getElementById("demo").innerHTML = toCensius'
+document.getElementById("demo").innerHTML = toCelsius'
 
 ### Functions Used As Variable Values ###
 * Functions can be used the same was as variables, and in all types of formulas/assignments/calculations. 
 
 Example:
 Instead of using a variable to store the return value of a function:
-'let x = toCensius(77);
+'let x = toCelsius(77);
 let text = "The temperature is " + x + " Celsius";'
 
 Use the function directly as a variable value:
