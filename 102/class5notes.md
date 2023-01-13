@@ -54,7 +54,7 @@ Source: [https://www.w3schools.com/css/css_howto.asp](https://www.w3schools.com/
     * used to apply a unique style for a single element
     * add the style attribute to the relevant element; style attribute can contain any CSS property
 
-* Multiple Style Sheets: if some properties have been defined for the same selctor/element in different style sheets, the value from the last read style sheet will be used.
+* Multiple Style Sheets: if some properties have been defined for the same selector/element in different style sheets, the value from the last read style sheet will be used.
 
 * Cascading Order: with more than one style specified for an HTML element, the following rules will apply:
     1. Inline style - inside HTML element
