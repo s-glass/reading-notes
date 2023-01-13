@@ -91,3 +91,10 @@ Example:
 
 * If the condition becomes false, the statement stops executing and control goes to the statement that follows the loop.
 * The conditiuon test occurs before the **statement** is executed - if it returns **true,** the **statement** is executed and the **condition** is tested again. If condition is **false,** execution stops, control goes to statement following **while**.
+
+
+## Things I Want To Know More About ##
+Nothing at this time
+
+URL: [https://s-glass.github.io/reading-notes/102/class8notes](https://s-glass.github.io/reading-notes/102/class8notes)
+
