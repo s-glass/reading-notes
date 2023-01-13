@@ -11,7 +11,7 @@ Source: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressio
 * **Strings** are compared based on standard lexico. ordering using Unicode values.
     - if they're not the same type, JS tries to convert them to an appropriate type for the comparison; which usually results in comparing the operands numerically. 
     - exceptions to type conversion within comparisons involve the '===' and '!==' operators, which are strict equality and inequality comparisons. 
-    - these operators dont' try to convert the operands to compatible types before checking equality. 
+    - these operators don't try to convert the operands to compatible types before checking equality. 
 * Examples of Operators:
 1. Equal ==
 2. Not equal !=
@@ -24,13 +24,13 @@ Source: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressio
 
 ### Assignment Operators ###
 *  Assignment operators assign value to its **left operand** based on the value of its **right operand**
-* The simple assignment operator is Equal =, ex. x = f() is an assignment expressino that assigns the value of f() to x. 
+* The simple assignment operator is Equal =, ex. x = f() is an assignment expression that assigns the value of f() to x. 
 
 Examples of compound assignment operators:
 1. assignment: x = f()
 2. addition assignment: x += f()
-3. subtractiuon assignment x -= f()
-4. multiplicaiton assignment x *= f()
+3. subtraction assignment x -= f()
+4. multiplication assignment x *= f()
 5. division assignment x /= f()
 
 **Assigning to properties**
@@ -61,7 +61,7 @@ console.log(obj); // Prints { x: 3, y: 5}'
 * When chaining expressions without () or other grouping operators, the assignment expressions will be **grouped R to L**, but **evaluated L to R**.
 
 **Avoid Assignment Chains**
-* Chaining/nesting asisgnments in other expressions can create problems, so it's discouraged. 
+* Chaining/nesting assignments in other expressions can create problems, so it's discouraged. 
 
 -----------------------------------------------
 ## Loops ##
@@ -75,9 +75,9 @@ Example:
 ' for ([initialExpression]; [conditionExpression]; [incrementExpression])
 statement'
 
-* When a 'for'loop executes, the following happens:
+* When a 'for' loop executes, the following happens:
 1.Initial expression is executed
-2. Condition expresison is evaluated. If true, loop executes; otherwise it terminates.
+2. Condition expression is evaluated. If true, loop executes; otherwise it terminates.
 3. Statement executes
 4. If present, incrementExpression is executed
 5. Control returns to step 2 
@@ -90,7 +90,7 @@ Example:
     statement'
 
 * If the condition becomes false, the statement stops executing and control goes to the statement that follows the loop.
-* The conditiuon test occurs before the **statement** is executed - if it returns **true,** the **statement** is executed and the **condition** is tested again. If condition is **false,** execution stops, control goes to statement following **while**.
+* The condition test occurs before the **statement** is executed - if it returns **true,** the **statement** is executed and the **condition** is tested again. If condition is **false,** execution stops, control goes to statement following **while**.
 
 
 ## Things I Want To Know More About ##
