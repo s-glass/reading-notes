@@ -11,11 +11,15 @@ Source: [https://developer.mozilla.org/en-US/docs/Glossary/Control_flow](https:/
 * Script can also be set to execute when events occur.
 * **Control flow** means that when you read a script, you need to not only read from stat to finish, but look at progra structure and how it affects order of executiuon.
 
+
+-----------------------------------------
 ## JS Functions ##
 
 Source: [https://www.w3schools.com/js/js_functions.asp](https://www.w3schools.com/js/js_functions.asp)
 
-* A JavaScript **function** is a block of code designed to perform a specific task; it's executed when "something" invokes it. 
+* A JS **function** is:
+1. a block of code designed to perform a specific task
+2. executed when "something" invokes it. 
 
 Example: 
 ' // Function to compute the product of p1 and p2
@@ -24,7 +28,7 @@ function myFunction(p1, p2) {
 }'
 
 ### Function Syntax ###
-* A JS **funciton** is defined wiht the 'function' keyword, followed by a 'name', followed by parentheses '()'
+* A JS **funciton** is defined wiht the 'function' keyword, followed by a 'name', followed by parentheses '()'.
 * funciton names can contain letters, digits, _ and $
 * the parenthesis may include parameter names separated by commas: ex. (parameter1, parameter2,...)
 * the code to be executed by the function is placed in curly brackets {}
@@ -101,11 +105,60 @@ function myFunction() {
 * Since local variables are only recognized inside their functions, variables with the same name can be used in different functions.
 * Local variables are created when a function starts, and deleted when a function is completed.
 
-
-----------------------------------
+------------------------------------
 
 ## JS Operators ##
 
 Source: [https://www.w3schools.com/js/js_operators.asp](https://www.w3schools.com/js/js_operators.asp)
 
-* 
+* **Assignment Operator** (=) assigns a value to a variable.
+
+Example:
+1. 'let x = 10;'
+
+* **Addition Operator** (+) adds numbers
+
+Example:
+'let x = 5;
+let y = 2;
+let z = x + y;'
+
+* **Multiplication Operator** (*) multiplies numbers
+
+Example:
+'let x = 5;
+let y = 2;
+let z = x * y;'
+
+### Types of JS Operators ###
+1. **Arithmetic:** perform arithmetic on numbers:
+    'let a = 3;
+    let x = (100 + 50) * a;'
+2. **Assignment:** assign values to variables
+    - Addition Assignment Operator (+=) adds value to a variable:
+    'let x = 10;
+    x += 5;'
+    - The + operator AND the += operator can also be used to add (concatenate) strings.
+    - When used on strings, the + operator is called the **concatenation operator**
+    - Adding two numbers will return a sum but adding a number + string returns a string
+3. **Comparison:** 
+    - Examples:
+    - == equal to | === equal value and equal type | != not equal | !== not equal value or not equal type | > greater than | < less than |  >= greater than or equal to  | <= less than or equal to  |  ?  ternary operator
+4. **Logical:**
+    - Examples:
+    - && logical and  |  || logical or  | ! logical not
+5. **Conditional:**
+6. **Type:**
+    - Examples: 
+    _ typeof  returns the type of a variable   |  instanceof  returns true if an object is an instance of an object type
+
+
+
+------------------------------------
+
+## Things I Want To Know More About ##
+
+Nothing at this time. 
+
+
+URL: https://s-glass.github.io/reading-notes/102/class7notes
