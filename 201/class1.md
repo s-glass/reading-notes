@@ -58,11 +58,13 @@ The closing tag is the same as the opening tag, but it includes a / before the e
 
 A "typical" website might include the following elements:
 
+'''
 -header: <header>.
 -navigation bar: <nav>.
 -main content: <main> (with various content subsections represented by <article>, <section>, and <div> elements).
 -sidebar: <aside>; often placed inside <main>.
 -footer: <footer>.
+'''
 
 5. How does metadata influence Search Engine Optimization?
 
