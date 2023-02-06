@@ -13,7 +13,7 @@ This site is created to host all of my reading notes for courses at Code Fellows
 
 ## Table of Contents
 
-### Code 102 Reading Notes
+### Code 102 Reading Notes - Intro to Software Development
 
 * [Class 1 Notes](https://s-glass.github.io/reading-notes/102/class1notes)
 * [Class 2 Notes](https://s-glass.github.io/reading-notes/102/class2notes)
@@ -26,7 +26,7 @@ This site is created to host all of my reading notes for courses at Code Fellows
 * [Thoughts and Observations](https://s-glass.github.io/reading-notes/102/thoughts-and-observations)
 * [Growth Mindset Task](https://s-glass.github.io/reading-notes/102/growth-mindset)
 
-## Code 201 Reading Notes
+## Code 201 Reading Notes - Foundations of Software Development
 
 * [Class 1 Notes](https://s-glass.github.io/reading-notes/201/class1)
 * [Class 2 Notes](https://s-glass.github.io/reading-notes/201/class2)

@@ -95,7 +95,7 @@ var z = x + y;'
 * **JS Dollar Sign** - The dollar sign is a letter, so identifiers with $ are valid variable names
 - not common in JS but sometimes used as an alias for the main function in a JS library
 
-* **JS Underscore _**: underscore is a lettter, so identifiers with _ are valid variable names
+* **JS Underscore _**: underscore is a letter, so identifiers with _ are valid variable names
 - not common in JS but sometimes used as an alias for private/hidden variables
 
 -------------------------------
