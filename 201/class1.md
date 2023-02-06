@@ -76,16 +76,7 @@ It can be used to specify the document's character encoding using '<meta> charse
 
 Or it can include **name** and **content** attributes to specify the type of metadata element/type of information and to specify the actual meta content. 
 
-Example from [This source](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
-'''
-<meta name="author" content="Chris Mills" />
-<meta
-  name="description"
-  content="The MDN Web Docs Learning Area aims to provide
-complete beginners to the Web with all they need to know to get
-started with developing web sites and applications." />
-'''
-
+Examples are available at[this source](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML).
 -----------------------------------------------
 
 ## Miscellaneous
@@ -131,4 +122,4 @@ Animating images and dynamically updating content both require JS in the browser
 Using the **script** element. You can create a script.js file in the same directory as your HTML file, or add JavaScript inline - inside of your HTML.
 
 ## Things I Want To Know More About:
-Nothing at the moment!
+Nothing I can think of at the moment!
