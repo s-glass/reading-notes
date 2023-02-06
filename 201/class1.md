@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-Sources [https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+Source: [https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 
 1. Compose a short poem describing how HTTP sends data between computers.
 
@@ -30,7 +30,7 @@ To signify that the value in a sequence of text is a string, you must enclose it
 5. What is a Variable and why are they important in JavaScript?
 
 Variables are containers that store values. They're declared with the *let* keyword followed by the name given to the variable. They're important because you can't make anything happen in JS without having a Variable to be defined and told what to do, how to relate, etc.
-
+-----------------------------------------------
 ## Intro to HTML
 
 1. What is an HTML attribute?
@@ -74,8 +74,9 @@ It can be used to specify the document's character encoding using **<meta> chars
 
 Or it can include **name** and **content** attributes to specify the type of metadata element/type of information and to specify the actual meta content. 
 
-Example from [https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+Example from [This source](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
+'''
 <meta name="author" content="Chris Mills" />
 <meta
   name="description"
@@ -83,6 +84,8 @@ Example from [https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_t
 complete beginners to the Web with all they need to know to get
 started with developing web sites and applications." />
 
+'''
+-----------------------------------------------
 
 ## Miscellaneous
 
@@ -96,11 +99,13 @@ To define what you want to accomplish with it.
 
 "What exactly do I want to accomplish?"
 
-### Semantics
+-----------------------------------------------
 
-1. Why should you use an <h1> element over a <span> element to display a top level heading?
+## Semantics
 
-Because <h1> means "a top level heading on your page," and <span> is an inline non-semantic element used mostly when you don't want to add specific meaning or you can't think of a better semantic text element to wrap your content.
+1. Why should you use an '<h1>' element over a '<span>' element to display a top level heading?
+
+Because '<h1>' means "a top level heading on your page," and '<span>' is an inline non-semantic element used mostly when you don't want to add specific meaning or you can't think of a better semantic text element to wrap your content.
 
 2. What are the benefits of using semantic tags in our HTML?
 
@@ -112,17 +117,17 @@ Because <h1> means "a top level heading on your page," and <span> is an inline n
 -Suggests to the developer the type of data that will be populated.
 -Semantic naming mirrors proper custom element/component naming.
 
-### What is JavaScript?
+-----------------------------------------------
+
+## What is JavaScript?
 
 1. Describe 2 things that require JavaScript in the Browser?
 
-Animating images
-Dynamically updating content
-Multimedia control
+Animating images and dynamically updating content both require JS in the browser.
 
 2. How can you add JavaScript to an HTML document?
 
-Using the <script> element. You can create a script.js file in the same directory as your HTML file, or add JavaScript inline - inside of your HTML. 
+Using the **script** element. You can create a script.js file in the same directory as your HTML file, or add JavaScript inline - inside of your HTML.
 
 ## Things I Want To Know More About:
 Nothing at the moment!
