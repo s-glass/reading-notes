@@ -74,9 +74,10 @@ A "typical" website might include the following elements:
 
 It can be used to specify the document's character encoding using '<meta> charset="utf-8:**', for example.
 
-Or it can include **name** and **content** attributes to specify the type of metadata element/type of information and to specify the actual meta content. 
+Or it can include **name** and **content** attributes to specify the type of metadata element/type of information and to specify the actual meta content.
 
-Examples are available at[this source](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML).
+Examples are available [here](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML).
+
 -----------------------------------------------
 
 ## Miscellaneous
