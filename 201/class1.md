@@ -29,15 +29,15 @@ To signify that the value in a sequence of text is a string, you must enclose it
 
 5. What is a Variable and why are they important in JavaScript?
 
-Variables are containers that store values. They're declared with the *let* keyword followed by the name given to the variable. They're important because you can't make anything happen in JS without having a Variable to be defined and told what to do, how to relate, etc.
+Variables are containers that store values. They're declared with the **let** keyword followed by the name given to the variable. They're important because you can't make anything happen in JS without having a Variable to be defined and told what to do, how to relate, etc.
 -----------------------------------------------
 ## Intro to HTML
 
-1. What is an HTML attribute?
+1.What is an HTML attribute?
 
 Attributes contain extra info about a given element that won't appear in the content.
 
-2. Describe the Anatomy of an HTMl element.
+2.Describe the Anatomy of an HTMl element.
 
 An element contains an opening tag, the content, and the closing tag. 
 
