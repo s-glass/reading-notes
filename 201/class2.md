@@ -28,7 +28,7 @@ They represent superscript and subscript, which are used for marking up items li
 
 **4.** When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
 
-A full expansion of a term in plain text must be provided on first use allong with the <abbr> element wrapped around an abbreviation or acronym.
+A full expansion of a term in plain text must be provided on the first use, along with the '<abbr>' element wrapped around a given abbreviation or acronym.
 
 --------------------------------------------
 
