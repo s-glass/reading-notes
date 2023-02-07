@@ -22,13 +22,13 @@ Source:[https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
 
 There are six heading elements representing six levels of content in a document: h1 through h6.
 
-**3.** What are some uses for the '<sup>' and '<sub>' elements?
+**3.** What are some uses for the `<sup>` and `<sub>` elements?
 
 They represent superscript and subscript, which are used for marking up items like dates (ex. 25th), chemical formulas (ex. H20), and math equations (ex. x2 = 9).
 
-**4.** When using the '<abbr>' element, what attribute must be added to provide the full expansion of the term?
+**4.** When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?
 
-A full expansion of a term in plain text must be provided on the first use, along with the '<abbr>' element wrapped around a given abbreviation or acronym.
+A full expansion of a term in plain text must be provided on the first use, along with the `<abbr>` element wrapped around a given abbreviation or acronym.
 
 --------------------------------------------
 
@@ -49,6 +49,9 @@ Source: [https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_
 - it mixes CSS with HTML and content, which makes it more difficult to read and understand.
 
 **3.** Review the block of code below and answer the following questions:
+`h2 {
+    color: black;
+    padding: 5px;`
 
 1. What is representing the selector? **h2**
 
@@ -70,10 +73,10 @@ A String.
 
 **2.** List 4 types of JavaScript operators.
 
-- Addition: "+"
-- Subtraction: "-"
-- Assignment: "="
-- Strict Equality: "==="
+- Addition: +
+- Subtraction: -
+- Assignment: =
+- Strict Equality: ===
 
 **3.** Describe a real world Problem you could solve with a Function.
 
@@ -96,15 +99,15 @@ It allows you to have more than two choices or outcomes.
 
 **3.** List 3 different types of comparison operators.
 
-- Strict equality: "==="
-- Strict non-equality: "!=="
-- Greater than: ">"
+- Strict equality: ===
+- Strict non-equality: !==
+- Greater than: >
 
-**4.** What is the difference between the logical operator "&&" and "||"?
+**4.** What is the difference between the logical operator `&&` and `||`?
 
-"&&"- AND allows you to chain together 2 or more expressions so that **all of them** have to individually evaluate to true for the whole expression to return true.
+`&&`- AND allows you to chain together 2 or more expressions so that **all of them** have to individually evaluate to true for the whole expression to return true.
 
-"||" - OR allows you to chain together 2 or more expressions so that **one or more of them** have to individually evaluate to true for the whole expression to return true.
+`||` - OR allows you to chain together 2 or more expressions so that **one or more of them** have to individually evaluate to true for the whole expression to return true.
 
 
 ----------------------------------------------
