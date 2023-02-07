@@ -26,7 +26,7 @@ There are six heading elements representing six levels of content in a document:
 
 They represent superscript and subscript, which are used for marking up items like dates (ex. 25th), chemical formulas (ex. H20), and math equations (ex. x2 = 9).
 
-**4.** When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
+**4.** When using the '<abbr>' element, what attribute must be added to provide the full expansion of the term?
 
 A full expansion of a term in plain text must be provided on the first use, along with the '<abbr>' element wrapped around a given abbreviation or acronym.
 
@@ -79,6 +79,7 @@ A String.
 
 Attempts to enter a password on a webpage or site.
 
+----------------------------------------------
 
 Source: [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
@@ -99,11 +100,11 @@ It allows you to have more than two choices or outcomes.
 - Strict non-equality: "!=="
 - Greater than: ">"
 
-**4.** What is the difference between the logical operator && and ||?
+**4.** What is the difference between the logical operator "&&" and "||"?
 
-&& - AND allows you to chain together 2 or more expressions so that **all of them** have to individually evaluate to true for the whole expression to return true.
+"&&"- AND allows you to chain together 2 or more expressions so that **all of them** have to individually evaluate to true for the whole expression to return true.
 
-|| - OR allows you to chain together 2 or more expressions so that **one or more of them** have to individually evaluate to true for the whole expression to return true.
+"||" - OR allows you to chain together 2 or more expressions so that **one or more of them** have to individually evaluate to true for the whole expression to return true.
 
 
 ----------------------------------------------
