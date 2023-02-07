@@ -51,7 +51,8 @@ Source: [https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_
 **3.** Review the block of code below and answer the following questions:
 `h2 {
     color: black;
-    padding: 5px;`
+    padding: 5px;
+}`
 
 1. What is representing the selector? **h2**
 
