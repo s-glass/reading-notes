@@ -22,7 +22,7 @@ Source:[https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
 
 There are six heading elements representing six levels of content in a document: h1 through h6.
 
-**3.** What are some uses for the <sup> and <sub> elements?
+**3.** What are some uses for the '<sup>' and '<sub>' elements?
 
 They represent superscript and subscript, which are used for marking up items like dates (ex. 25th), chemical formulas (ex. H20), and math equations (ex. x2 = 9).
 
