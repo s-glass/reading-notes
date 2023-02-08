@@ -45,7 +45,7 @@ Source: [https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_
 
 **1. Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?**
 
-In the story of "The Box Model," Margin and Padding would be fraternal twin siblings. Poor Margin has both anxious and avoidant attachment tendencies. Most of the time it pushes other elements away from its box, but when Margin is negative, it causes it to overlap completely with the other things that are on the page with it. For this reason, it's best for Margin to not ~~start new relationships~~ be added until after the size of the box is already ~~stable~~ calculated. 
+In the story of "The Box Model," Margin and Padding are fraternal twin siblings. Poor Margin has both anxious and avoidant attachment tendencies. Most of the time Margin pushes other elements away from its box, but when Margin is negative, it causes it to overlap completely with the other things that are on the page with it. For this reason, it's best for Margin to not ~~start new relationships~~ be added until after the size of the box is already ~~stable~~ calculated. 
 
 Padding, on the other hand, was perpetually used as a pawn by one of its parents, Border, to push the other parent, Content, away from them. This, as you can imagine, caused some long-term issues deep in Padding's psyche. Regardless of this dynamic, and unlike Margin, Padding is never negative.  
 
@@ -75,11 +75,11 @@ Strings, numbers, objects, and other arrays. You can also mix data types in a si
 
 **2. Is the people array listed below a valid JavaScript array?**
 
-No, it's not valid because there are three sets of [] brackets within the original set of [] brackets (which I think means there's three arrays?).
+No, it's not valid because there are three sets of [ ] brackets within the original set of [ ] brackets (which I think means there's three arrays?).
 
-If so, how can I access the values stored? If not, why?
+**If so, how can I access the values stored? If not, why?**
 
-You can access the arrays in their respective groups, but not the items within the arrays individually because they are separated into 3 different [] arrays. For example, console.log(people[0]) returns the entire first array: ['pete, 32, 'librarian', null]. 
+You can access the arrays in their respective groups, but not the items within the arrays individually because they are separated into 3 different [ ] arrays. For example, console.log(people[0]) returns the entire first array: ['pete, 32, 'librarian', null]. 
 
 
 ` const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];`
@@ -99,6 +99,11 @@ You can access the arrays in their respective groups, but not the items within t
 
 
 **4 Read the code below and evaluate the last expression and explain what the result would be and why.**
+
+I don't know the answer, but I'm going to say what I do know. I do know that a is a number, b is a string, and c is a boolean, and when I put this in my repl.it, it produces nothing. 
+
+In a boolean context, a = 10 is falsy, b = 'dog' is truthy, and c = false is falsy.
+The only operator we have in the last expression is addition. There are no comparison or logical operators. So all I have for this is (falsy + falsy) + truthy.
 
  `let a = 10;
  let b = 'dog';
