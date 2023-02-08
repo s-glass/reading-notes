@@ -125,4 +125,4 @@ When looking through a list of names (the task needs to be done more than once i
 ----------------------------------------------
 
 ### Things I Want To Know More About:
-Question #2 in the JS section about arrays because I'm not sure I arrived to the right conclusion.
+Questions #2 and #4 in the JS section about arrays and the result of an addition operator in a boolean context because I don't have the full, correct answers.
