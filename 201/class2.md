@@ -1,4 +1,4 @@
-# 201 class 2 notes
+# 201 class 02 notes
 
 **Why this matters**: This information matters because it's a review of the basic building blocks for beginning developers, including how browsers and web pages function, and the basics of HTML, CSS, and JavaScript.
 
