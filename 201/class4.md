@@ -1,15 +1,12 @@
 # 201 class 4 notes
 
-**Why this matters**: This information matters because it includes important information about accessibility in web development.
+**Why this matters**: This information matters because it includes important information about accessibility in web development, includes more details about CSS layout, and presents the concept of pair programming and its benefits.
 
 ------------------------------------
 
 ## Learn HTML
 
 Source: [https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
-
-
-Source:
 
 **1. To create a basic link, we wrap text or other content inside what element?**
 
