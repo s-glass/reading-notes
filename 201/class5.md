@@ -36,6 +36,8 @@ For accessibility, for example when the user is using a screen reader.
 **5. What image type would you use to display a screenshot on your website and why?**
 
 - Lossless PNG or WebP because in order to maintain quality and keep the image from looking fuzzy, you need a lossless format. 
+
+
 ------------------------------------
 
 ## Learn CSS
