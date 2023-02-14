@@ -10,6 +10,7 @@ Source: [https://github.com/codefellows/domain_modeling#domain-modeling](https:/
 
 **1. Explain why we need domain modeling.**
 
+From the source above: "A domain model that's articulated well can verify and validate the understanding of a specific problem among various stakeholders. As a communication tool, it defines a vocabulary that can be used within and between both technical and business teams."
 
 
 ------------------------
@@ -20,11 +21,22 @@ Source: [https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics](http
 
 **1. Why should tables not be used for page layouts?**
 
+- They reduce accessibility for visually impared users
+
+- They produce "tag soup," making the code harder to write, maintain, and debug.
+
+- They aren't automatically responsive (where width defaults to 100% of parent elements). Instead, they are sized by default.
 
 
 **2. List and describe 3 different semantic HTML elements used in an HTML <table>.**
 
+- `<td>` - Table Data - this is the smallest container inside a table.
 
+- `<tr>` - Table Row - this is used to keep a row from growing and starts placing subsequent cells on a new row.
+
+- `<th>` - Table Headers - The cells that go at the start of a row or column.
+
+- `<col>` and `<colgroup>` define the styling information for an entire column of data all in one place.
 
 -----------------------
 
@@ -35,12 +47,13 @@ Source: [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basic
 
 **1. What is a constructor and what are some advantages to using it?**
 
-
+A constructor is a function called using the `new` keyword. It's a shorter way of defining the "shape" of an object - the set of methods and properties it can have, and then creating as many objects as you want by updating the values for the properties that are different.
 
 **2. How does the term this differ when used in an object literal versus when used in a constructor?**
 
+When using `new` in a constructor, it will create a new object, bind `this` to the new object, run the code in the constructor, and return the new object.
 
-
+In an object literal, you don't use the word `new` to create a new object. Instead you must invoke the new Object() to create it.
 
 
 -------------------------
