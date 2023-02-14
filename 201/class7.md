@@ -65,7 +65,7 @@ Source: [https://ui.dev/beginners-guide-to-javascript-prototype](https://ui.dev/
 
 **1. Explain prototypes and inheritance via an analogy from your previous work experience. NOTE: This is a very common front end developer interview question.**
 
-
+I've been trying to figure this out and won't get it by the time the deadline comes here soon, so I'm using this as a placeholder and will update when I figure it out.
 
 
 ------------------------------------
