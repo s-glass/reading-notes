@@ -65,7 +65,16 @@ Source: [https://ui.dev/beginners-guide-to-javascript-prototype](https://ui.dev/
 
 **1. Explain prototypes and inheritance via an analogy from your previous work experience. NOTE: This is a very common front end developer interview question.**
 
-I've been trying to figure this out and won't get it by the time the deadline comes here soon, so I'm using this as a placeholder and will update when I figure it out.
+According to [this source](https://javascript.info/prototype-inheritance): "When we read a property from object, and it’s missing, JavaScript automatically takes it from the prototype. In programming, this is called “prototypal inheritance”.
+
+So if I want to make an analogy from previous work experience, I could say the following:
+
+let object = supply closet
+let property = pens
+let prototype = Bob's desk
+let JavaScript = me
+
+So in a previous job, if I went to the supply closet for pens that I need at an even and they're missing, I may automatically go to Bob's desk to find and take pens. 
 
 
 ------------------------------------
