@@ -74,7 +74,7 @@ let property = pens
 let prototype = Bob's desk
 let JavaScript = me
 
-So in a previous job, if I went to the supply closet for pens that I need at an even and they're missing, I may automatically go to Bob's desk to find and take pens. 
+So in a previous job, I once went to the supply closet to get pens that I need to take with me at an even, and they were missing. So I automatically went to my colleague Bob's desk to find and take pens since he always hoarded them.
 
 
 ------------------------------------
