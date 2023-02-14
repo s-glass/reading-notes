@@ -10,23 +10,29 @@ Source: [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basic
 
 **1. How would you describe an object to a non-technical friend you grew up with?**
 
-In the JavaScript language, an object is a collection of data that is related in some way to one another. For example, data about a person, including their name, age, etc.
+In the JavaScript language, an object is a collection of data that is related in some way to one another. For example, data about a person, including their name, age, job, etc.
 
 **2. What are some advantages to creating object literals?**
 
+- It's an efficient way of transfering a series of structured and related data items.
+
+- It is easier to work with than arrays for identifying individual items by name.
 
 
 **3. How do objects differ from arrays?**
 
-
+Objects don't have indexes/index numbers; you instead use the name for each member's value. 
 
 **4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.**
 
+For example, you can't use dot notation to access an object property name held in a variable - but you can access the value with bracket notation.
 
 
 **5. Evaluate the code below. What does the term this refer to and what is the advantage to using this?**
 
+`this` refers to the specific `const` declaration of `dog`, in this case, the data entered for `name` and `age` in this specific `const` (dog). 
 
+The advantage is that you can specifically target each value of the `const`/object by name.
 
 --------------------------------
 
