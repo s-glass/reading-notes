@@ -41,7 +41,7 @@ The following layout designs are difficult or impossible to achieve with float, 
 
 - Making all columns in a multiple-column layout adopt the same height even if they contain a different amount of content.
 
-(from this [source:](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox))
+(from this [source](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox))
 
 
 **2. How does this topic connect with your long term goals?**
