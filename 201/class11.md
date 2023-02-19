@@ -10,7 +10,7 @@ Source:[https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embed
 
 **1. Explain how the ability to use video and audio on the web has evolved since the early 2000s.**
 
-Initially, Flash and Silverlight (proprietary, plugin-based technologies) were the tools used to bring videos and audio online. They have been replaced over time because of security and accessibilty issues, with native HTML solutionas `<video>` and    `<audio>`and the ability of JavaScript APIs to controll these elements.
+Initially, Flash and Silverlight (proprietary, plugin-based technologies) were the tools used to bring videos and audio online. They have been replaced over time because of security and accessabilty issues, with native HTML solutions `<video>` and    `<audio>`and the ability of JavaScript APIs to control these elements.
 
 **2. Describe the use of the `src` and `controls` attributes in the `<video>` element.**
 
@@ -73,7 +73,7 @@ Source: [https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embe
 
 **3. How is `srcset` more helpful for responsive images than CSS or JavaScript?**
 
-- It saves bandwidth. Since browsers preload images before the parser loads or interprets CSS and JS, it woulnd't make sense to preload a large image that then gets adjusted or replaced in the CSS/JS stages.
+- It saves bandwidth. Since browsers preload images before the parser loads or interprets CSS and JS, it wouldn't make sense to preload a large image that then gets adjusted or replaced in the CSS/JS stages.
 
 
 ------------------------------------
