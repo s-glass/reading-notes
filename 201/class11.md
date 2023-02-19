@@ -1,6 +1,6 @@
 # 201 class 11 notes
 
-**Why this matters**: This information matters because 
+**Why this matters**: This information matters because audio, video, and image content are all important parts of modern webpages. Therefore, knowing how to properly implement those components in your pages, including considerations like fallback content and responsive sizing, is important to coding modern web content.
 
 ------------------------------------
 
