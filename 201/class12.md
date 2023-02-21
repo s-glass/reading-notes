@@ -1,6 +1,6 @@
 # 201 class 12 notes
 
-**Why this matters**: This information matters because
+**Why this matters**: This information matters because Chart.js and the `canvas` element allow developers to display information and data in more detailed visualizations.
 
 ------------------------------------
 
