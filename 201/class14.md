@@ -1,4 +1,4 @@
-# 201 class 14 notes
+# 201 class 14 Part I notes
 
 **Why this matters**: This information matters because it gives us some more functionality with the style and design of our web pages. Styling is a key part to implementing an application, so knowing what more can be done helps the overall quality of a dev's work.
 
@@ -50,3 +50,36 @@ Knowing more about CSS features is important to my long term goals as a dev beca
 ------------------------------------
 ### Things I Want To Know More About:
 What the 'nightly version' of Chrome is. Google says it's Canary, and that is a world of things I don't know about. I didn't know there were browsers created for devs but that makes a lot of sense.
+
+
+-----------------------------------------------------------
+
+# 201 class 14 Part II notes
+
+## Psychological Safety
+
+Source:[https://web.archive.org/web/20221125192300/https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html](https://web.archive.org/web/20221125192300/https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+
+
+**1 What are three key factors that contribute to psychologically safe teams?**
+
+- conversational turn-taking
+- average social sensitivity (empathy)
+- interpersonal trust
+- mutual respect
+- climate in which people are comfortable being themselves
+
+**2. Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.**
+
+I want to take a second to talk about an experience that's highlighted in a quote in the article: "You can instruct employees to be sensitive to how their colleagues feel and to notice when someone seems upset. But the kinds of people who work at Google are often the ones who became software engineers because they wanted to avoid talking about feelings in the first place."
+
+At a previous job (actually in a few previous roles), I've been on teams that had legitimate concerns about race and/or gender inequality, and multiple times I've seen senior leadership members dismiss and devalue staff concerns as "just feelings", inferring that 'the workplace is no place for feelings.' That sentiment solidifies that a) only certain feelings are acceptable in the workplace and b) this is not a place where you can bring concerns without repercussions. Author Ruchika Tulshayan talks more on this [here](https://www.rtulshyan.com/post/why-inclusion-cant-exist-without-psychological-safety).
+
+
+**3. What impact do teams that operate with a high degree of psychological safety have on their company and the team members?**
+
+Groups that work well together innovate faster, see mistakes more quickly, find better solutions, and also achieve better results and report higher job satisfaction; and psychological safety is key to groups working well.
+
+------------------------------------
+### Things I Want To Know More About:
+Nothing at the moment!
