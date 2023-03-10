@@ -43,3 +43,22 @@ This site is created to host all of my reading notes for courses at Code Fellows
 * [Class 13 Notes](https://s-glass.github.io/reading-notes/201/class13)
 * [Class 14 Notes](https://s-glass.github.io/reading-notes/201/class14)
 * [Class 15 Notes](https://s-glass.github.io/reading-notes/201/class15)
+
+
+### Code 301 Reading Notes - Intermediate Software Development
+
+* [Class 1 Notes](https://s-glass.github.io/reading-notes/301/class01)
+* [Class 2 Notes](https://s-glass.github.io/reading-notes/301/class02)
+* [Class 3 Notes](https://s-glass.github.io/reading-notes/301/class03)
+* [Class 4 Notes](https://s-glass.github.io/reading-notes/301/class04)
+* [Class 5 Notes](https://s-glass.github.io/reading-notes/301/class05)
+* [Class 6 Notes](https://s-glass.github.io/reading-notes/301/class06)
+* [Class 7 Notes](https://s-glass.github.io/reading-notes/301/class07)
+* [Class 8 Notes](https://s-glass.github.io/reading-notes/301/class08)
+* [Class 9 Notes](https://s-glass.github.io/reading-notes/301/class09)
+* [Class 10 Notes](https://s-glass.github.io/reading-notes301/class10)
+* [Class 11 Notes](https://s-glass.github.io/reading-notes/301/class11)
+* [Class 12 Notes](https://s-glass.github.io/reading-notes/301/class12)
+* [Class 13 Notes](https://s-glass.github.io/reading-notes/301/class13)
+* [Class 14 Notes](https://s-glass.github.io/reading-notes/301/class14)
+* [Class 15 Notes](https://s-glass.github.io/reading-notes301/class15)
