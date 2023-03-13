@@ -1,6 +1,6 @@
 # 301 class 01 notes
 
-**Why this matters**: This information matters because 
+**Why this matters**: This information matters because components and properties are key tools for using React.
 
 ------------------------------------
 
