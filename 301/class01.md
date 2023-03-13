@@ -6,14 +6,14 @@
 
 ## Component-Based Architecture 
 
-Source: [https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm]{https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm}
+Source: [https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
 **1. What is a “component”?**
 
-- Modular, portable, replaceable and reusable set of well-defined functionality that encapsulates the implementation and exportin git as a higher-level interface.
-- Software object intended to interact with other components, encapsulating certian functionality or a set of functionalitites.
-- It has an obviously defined interface and conforms to a recommended behavior common to all componenets within an architecture.
-- A unit of composition with a contractually specified interface and explicit context dependencies only. 
+- Modular, portable, replaceable and reusable set of well-defined functionality that encapsulates the implementation and exporting it as a higher-level interface.
+- Software object intended to interact with other components, encapsulating certain functionality or a set of functionalities.
+- It has an obviously defined interface and conforms to a recommended behavior common to all components within an architecture.
+- A unit of composition with a contractually specified interface and explicit context dependencies only.
 
 **2. What are the characteristics of a component?**
 
@@ -28,7 +28,7 @@ Source: [https://www.tutorialspoint.com/software_architecture_design/component_b
 **3. What are the advantages of using component-based architecture?**
 
 - Reduced time in market and the development cost by reusing existing components.
-- INcreased reliability wiht the reuse of the existing components.
+- Increased reliability with the reuse of the existing components.
 
 - Ease of deployment
 - Reduced cost
@@ -57,7 +57,7 @@ Source: [https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0
 
 **3. What is the flow of props?**
 
-- Unidirectional flow - onen way from parent to child; also immutable (read-only)
+- Unidirectional flow - one way from parent to child; also immutable (read-only)
 
 ------------------------------------
 ### Things I Want To Know More About:
