@@ -34,7 +34,7 @@ Source: [https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-jav
 
 **1. What is the spread operator?**
 
-Spread is used to expnd an iterable object into a list of arguments.
+Spread is used to expand an iterable object into a list of arguments.
 
 **2. List 4 things that the spread operator can do.**
 
