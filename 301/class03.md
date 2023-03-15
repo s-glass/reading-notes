@@ -1,6 +1,6 @@
 # 301 class 03 notes
 
-**Why this matters**: This information matters because c
+**Why this matters**: This information matters because it details what keys are and how to use them, gives examples of how to use spread operators, and explains how to pass functions between components in React.
 
 ------------------------------------
 
