@@ -1,6 +1,6 @@
 # 301 class 04 notes
 
-**Why this matters**: This information matters because 
+**Why this matters**: This information matters because it tells us more about controlled components and what role they serve with user input and forms, and how to use ternary operators to shorten if statements.
 
 ------------------------------------
 
