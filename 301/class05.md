@@ -1,6 +1,6 @@
 # 301 class 05 notes
 
-**Why this matters**: This information matters because it details some good planning information and techniques via the content in 'thinking in react', and it gives us some context and vocabulary to situate many of the functions we have recently learned as 'highter-order functions.'
+**Why this matters**: This information matters because it details some good planning information and techniques via the content in 'thinking in react', and it gives us some context and vocabulary to situate many of the functions we have recently learned as 'higher-order functions.'
 
 ------------------------------------
 
@@ -10,7 +10,7 @@ Source: [https://react.dev/learn/thinking-in-react](https://react.dev/learn/thin
 
 **1. What is the `single responsibility principle` and how does it apply to components?**
 
-It's a techninque that says that a componenet should ideally only do one thing, and if it ends up growing, should be decomposed into smaller subcomponents.
+It's a technnique that says that a component should ideally only do one thing, and if it ends up growing, should be decomposed into smaller subcomponents.
 
 **2. What does it mean to build a ‘static’ version of your application?**
 
@@ -54,7 +54,7 @@ Higher-order functions are functions that operate on other functions, either by 
 
 **2. Explore the `greaterThan` function as defined in the reading. In your own words, what is line 2 of this function doing?**
 
-Line two says that the greaterThan funciton should return value 'm' as long as 'm' is greater than the given value 'n'.
+Line two says that the greaterThan function should return value 'm' as long as 'm' is greater than the given value 'n'.
 
 **3. Explain how either `map` or `reduce` operates, with regards to higher-order functions.**
 
