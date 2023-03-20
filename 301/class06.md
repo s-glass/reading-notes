@@ -10,7 +10,7 @@ Source: [https://www.sitepoint.com/an-introduction-to-node-js/](https://www.site
 
 **1. What is node.js?**
 
-Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It's an event-based, non-blocking asynchronouse I/O runtime using Google's V8 JavaScript engine and libuv library.
+Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It's an event-based, non-blocking asynchronous I/O runtime using Google's V8 JavaScript engine and libuv library.
 
 
 **2. In your own words, what is Chrome’s V8 JavaScript Engine?**
@@ -19,7 +19,7 @@ It's an open-source engine that runs in Chrome and compiles JavaScript code to y
 
 **3. What does it mean that node is a JavaScript runtime?**
 
-It menas that Node.js is a program that can be used to execute JavaScript on a computer.
+It means that Node.js is a program that can be used to execute JavaScript on a computer.
 
 **4 What is npm?**
 
@@ -65,7 +65,7 @@ Source: [https://www.codefellows.org/blog/6-reasons-for-pair-programming/](https
 
 **3. How does pair programming work?**
 
-Pair programming involves two roles: the Driver and Navigator. The Driver types and is the only one with keyboard access. The Driver handles the "mechanics" of the coding and manages the text editor, switching files, version control and writing the code. The Navigator uses their words to guide the Driver but does not provide direct input to the computer. The Navigator is responsible for looking at the big picture, what comes next, how an algorithm nnight be converted into code, and scanning for typos or bugs. The Navigator may also look up solutions and documentation.
+Pair programming involves two roles: the Driver and Navigator. The Driver types and is the only one with keyboard access. The Driver handles the "mechanics" of the coding and manages the text editor, switching files, version control and writing the code. The Navigator uses their words to guide the Driver but does not provide direct input to the computer. The Navigator is responsible for looking at the big picture, what comes next, how an algorithm might be converted into code, and scanning for typos or bugs. The Navigator may also look up solutions and documentation.
 
 
 ------------------------------------
