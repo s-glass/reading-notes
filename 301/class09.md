@@ -1,6 +1,6 @@
 # 301 class 09 notes
 
-**Why this matters**: This information matters because it details functional programming and introduces Modules and require() in Node.js
+**Why this matters**: This information matters because it details functional programming and introduces Modules and require() in Node.js.
 
 ------------------------------------
 
@@ -45,7 +45,7 @@ Require passes a string in () that's a path to the module that's required in a g
 
 **3. How do we bring another module into the file the we are working in?**
 
-In the module file, export what you wan't to be available outside of the module: 
+In the module file, export what you want to be available outside of the module: 
 
 `module.exports = name of things to export;`
 
