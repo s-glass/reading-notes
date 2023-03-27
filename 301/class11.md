@@ -8,8 +8,6 @@
 
 Source: [https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 
-**5 differences between NoSQL and SQL**
-
 |                    NoSQL                                      |                SQL                      |
 | ------------------------------------------------------------- | --------------------------------------- |
 | non-relational or distributed database                        |  RDBMS: relational database             |
