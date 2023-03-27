@@ -9,13 +9,14 @@
 Source: [https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 
 **5 differences between NoSQL and SQL**
-| NoSQL  |  SQL   |
-| ------ | ------ |
-| non-relational or distributed database  |  RDBMS: relational database  |
-| document, key-value pair, graph, or wide-column stores-based  | table-based |
-| dynamic schema for unstructured data | predefined schema for unstructured data |
-| horizontally scalable | vertically scalable  |
-| not good for complex queries | good for complex queries |
+
+|                    NoSQL                                      |                SQL                      |
+| ------------------------------------------------------------- | --------------------------------------- |
+| non-relational or distributed database                        |  RDBMS: relational database             |
+| document, key-value pair, graph, or wide-column stores-based  | table-based                             |
+| dynamic schema for unstructured data                          | predefined schema for unstructured data |
+| horizontally scalable                                         | vertically scalable                     |
+| not good for complex queries                                  | good for complex queries                |
 
 **1. What kind of data is a good fit for an SQL database?**
 
