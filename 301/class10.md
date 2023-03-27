@@ -59,7 +59,7 @@ When you try to manipulate an object with some kind of length and give it an inv
 
 **4. What is a ‘type error’?**
 
-When the types (number, string, etc.) you are try9in gto use or access are incompatible, like accessing a property in an undefined type of variable.
+When the types (number, string, etc.) you are trying to use or access are incompatible, like accessing a property in an undefined type of variable.
 
 **5. What is a breakpoint?**
 
