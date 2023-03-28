@@ -70,11 +70,11 @@ Patch updates based only on what the user passes you. Put updates all informatio
 
 **6. How do you make a default value in a schema?**
 
-`default: Date.now` so that in the examppe, if we don't pass our subscribed date it will default to the current date.
+`default: Date.now` so that in the example, if we don't pass our subscribed date it will default to the current date.
 
 **7. What does a 500 error status code mean?**
 
-It means that there's an error on your server. the server (db) had an error that caused the transaction not to work and doesn't have to do with the user - it's entirely the dev's faut.
+It means that there's an error on your server. the server (db) had an error that caused the transaction not to work and doesn't have to do with the user - it's entirely the dev's fault.
 
 **8. What is the difference between a status 200 and a status 201?**
 
