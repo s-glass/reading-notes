@@ -10,7 +10,7 @@ Source: [https://medium.com/geekculture/crud-operations-explained-2a44096e9c88](
 
 **1. Which HTTP method would you use to update a record through an API?**
 
-PUT, it replaces all current data of the target resourfe with the uploaded content.
+PUT, it replaces all current data of the target resource with the uploaded content.
 
 **2. Which REST methods require an ID parameter?**
 
@@ -26,13 +26,13 @@ Source: [https://www.youtube.com/watch?v=EzNcBhSv1Wo](https://www.youtube.com/wa
 
 REST is an architectural system centered around resources and Hypermedia using HTTP commands. CRUD is a cycle meant to maintain records in a database setting. CRUD is a way of manipulating information, describing the function of an application. [Source](https://www.logicmonitor.com/blog/rest-vs-crud#:~:text=REST%20is%20an%20architectural%20system,controlling%20data%20through%20HTTP%20commands.)
 
-**If you had to describe the process of creating a RESTful API in 5 steps, what would they be?**
+**2. If you had to describe the process of creating a RESTful API in 5 steps, what would they be?**
 
 1. Identify resources - Object Modeling
 
 2. Create Model URIs (resource URIs = API endpoints)
 
-3. Determine resource represenations (defined in either XML or JSON)
+3. Determine resource representations (defined in either XML or JSON)
 
 4. Assigning HTTP methods (map app operations to resource URIs)
 
