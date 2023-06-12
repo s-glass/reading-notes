@@ -66,6 +66,8 @@ This site is created to host all of my reading notes for courses at Code Fellows
 
 ### Code 401 Reading Notes - Advanced Software Development, Python
 
+* [Intro to SQL](https://s-glass.github.io/reading-notes/401/intro-to-SQL)
+* [Practice In The Terminal](https://s-glass.github.io/reading-notes/401/terminal)
 * [Class 1 Notes](https://s-glass.github.io/reading-notes/401/class01)
 * [Class 2 Notes](https://s-glass.github.io/reading-notes/401/class02)
 * [Class 3 Notes](https://s-glass.github.io/reading-notes/401/class03)
