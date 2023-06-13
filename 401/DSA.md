@@ -13,7 +13,6 @@ Ideally, a programmer should consider (1) the operations performed, (2) the time
 
 
 **How can we ensure that we’ll avoid an infinite recursive call stack?**
-
 By allowing a set base condition to be true in a given recursive function call.
 
 [Source](https://www.enjoyalgorithms.com/blog/recursion-explained-how-recursion-works-in-programming)
@@ -21,3 +20,6 @@ By allowing a set base condition to be true in a given recursive function call.
 ------------------------------------
 ### Things I Want To Know More About:
 Nothing at the moment!
+
+
+
