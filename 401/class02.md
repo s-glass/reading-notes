@@ -1,4 +1,4 @@
-# 401 class 01 notes
+# 401 class 02 notes
 
 **Why this matters**: This information matters because it explains more foundational elements of Python coding, including TDD, the name/main gate, recursion and recursive functions, and modules and packages.
 
@@ -38,6 +38,8 @@ A function is recursive if it calls itself directly or indirectly. The process i
 Modules and packages facilitate modular programming. Modules are separate smaller, more manageable subtasks within a large programming task that can then be put together to create a larger application. Packages are a way of grouping and organizing modules  via a heirarchical structuring of the module namespace using dot notation. In the same way modules avoid collisions between global variable names, packages avoid collisions between module names. 
 
 Modules can be written in Python, in C and loaded dynamically at run-time, or built-in, and are created by creating a file with Python coding that has a .py extension. Modules are then accessed through an import statement "import + py file name", assuming the module is in the correct directory.
+
+[Source](https://realpython.com/python-modules-packages/)
 
 ------------------------------------
 ### Things I Want To Know More About:
