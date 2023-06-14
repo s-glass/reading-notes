@@ -1,6 +1,6 @@
 # 401 class 03 notes
 
-**Why this matters**: This information matters because
+**Why this matters**: This information matters because handling files (opening/closing/reading) and handling exceptions are both important tools to accessing information and successfully executing Python code.
 ------------------------------------
 
 **What is the purpose of the ‘with’ statement when opening a file in Python, and how does it help manage resources while reading and writing files?**
