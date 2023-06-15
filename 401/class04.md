@@ -1,6 +1,6 @@
 # 401 class 04 notes
 
-**Why this matters**: This information matters because 
+**Why this matters**: This information matters because it gives us more information about foundational Python concepts of classes/objects, more in depth coverage of recursion, and Pytest fixtures and coverage in testing.
 
 ------------------------------------
 
