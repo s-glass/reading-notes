@@ -27,7 +27,11 @@ Things to consider when implementing a recursive funciton are:
 
 **What is the purpose of pytest fixtures and code coverage in testing Python code? Explain how they can be used together to improve the quality and maintainability of a project.**
 
+Fixtures make it so that you can have some objects available to all of your tests, including objects with data you want to share across tests or involving the network or filesystem.
 
+Code coverage allows you to check that your tests have run all of the code, covering the ways that functions could get other results/exceptions that a test previously  didn't check for. 
+
+They improve quality and maintainability of a project by having key testing objects globally available and covering multiple results a piece of code may produce.
 
 
 ------------------------------------
