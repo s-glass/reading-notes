@@ -1,6 +1,6 @@
 # 401 class 07 notes
 
-**Why this matters**: This information matters because it covers variable scope and global and nonlocal keywords
+**Why this matters**: This information matters because it covers variable scope and global and nonlocal keywords.
 
 ------------------------------------
 
@@ -18,14 +18,14 @@ Global scope includes the names that are available to all of the code, and local
 
 Nonlocal statements consist of the nonlocal keyword followed by one or more names separated by commas; the names refer to the same names in the enclosing Python scope.
 
-Global statements consist of the global keyword followed byone or more names separated by commas; the names listed will be mapped to the global or module scope in which you define them.\
+Global statements consist of the global keyword followed by one or more names separated by commas; the names listed will be mapped to the global or module scope in which you define them.
 
 
 [Source](https://realpython.com/python-scope-legb-rule/#the-global-statement)
 
 **3. In your own words, describe the purpose and importance of Big O notation in the context of algorithm analysis.**
 
-Big 0 notation is important because it's a way to measure and compare how efficient a given algorithm is, or theoretically could be. It conceptualizes the "worst-case theoretical running time complexitiies of algorithms for performance analysis."
+Big 0 notation is important because it's a way to measure and compare how efficient a given algorithm is, or theoretically could be. It conceptualizes the "worst-case theoretical running time complexities of algorithms for performance analysis."
 
 [Source](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
 
