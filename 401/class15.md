@@ -10,10 +10,7 @@ Binary trees live in a world where everybody who has at least one kid is a singl
 
 K-ary trees live in a world where they can have 0 up to K number of kids. They're also always single parents, and there's no rules about whether kids are left or right-handed.
 
-For both, the root node is the matriarch/patriarch/theytriarch, and they can dequeue to go on vacation from their crazy family. When this happens, all of the monarch's children are enqueued into a queue, and when the first child dequeues the queue, that first child's kids then get enqueued to the back of the queueue, behind it's aunts and uncles. This dequeue/enqueue process happens at the front of the queue until the queueu is empty of children.
-
-
-
+For both, the root node is the matriarch/patriarch/theytriarch, and they can dequeue to go on vacation from their crazy family, in which they make everybody do a minivan shuffle. When this happens, all of the monarch's children are enqueued into a ~~minivan~~ queue, and when the first child dequeues the queue, that first child's kids then get enqueued to the back of the queueue, behind it's aunts and uncles. This dequeue/enqueue process happens at the front of the queue until the queue is empty of children.
 
 ------------------------------------
 ### Things I Want To Know More About:
