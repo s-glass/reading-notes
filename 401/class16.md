@@ -8,11 +8,11 @@
 
 Serverless Computing refers to implementing a system or application that does not rely on centralized, dedicated servers. It exhibits the following characteristics:
 
-On-Demand execution
-Elastic
-No host
-Distributed
-Shorter execution time
+- On-Demand execution
+- Elastic
+- No host
+- Distributed
+- Shorter execution time
 
 It differs from traditional server-based architecture in that it doesn't need centralized, dedicated servers, as it moves responsibility for operations and management of servers to a cloud provider.
 
