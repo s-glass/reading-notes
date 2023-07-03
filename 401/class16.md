@@ -1,6 +1,6 @@
 # 401 class 16 notes
 
-**Why this matters**: This information matters because trees are data structures that we can use to solve technical problems!
+**Why this matters**: This information matters because being able to pull and use data from APIs increases what you're able to do with Python applications.
 
 ------------------------------------
 
