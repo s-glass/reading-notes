@@ -57,7 +57,7 @@ Some key components of a Django application include models, admin, views, templa
 - Templates: are HTML files with embedded Django template language that defines the presentation of the data.
 - URL config: maps URLS to views in the application. Defines routing for user requests and tells Django what view to use to handle a specific URL.
 
-The componenets interact with each other in the following ways:
+The components interact with each other in the following ways:
 
 - The URL configurations direct requests to the appropriate view, based on the URLs defined in the Django project.
 - The view functions process the requests, including data retrieval, manipulation, and template rendering.
@@ -67,6 +67,8 @@ The componenets interact with each other in the following ways:
 
 
 [Source](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html) and ChatGPT
+
+
 ------------------------------------
 ### Things I Want To Know More About:
 Nothing at the moment!
