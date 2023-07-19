@@ -28,7 +28,7 @@ The purpose of Django Templates is to provide a way to create dynamic HTML pages
 
 Template inheritance allows for a base template that contains common structure and elements shared across multiple pages along with defining sections that can be overridden or extended in child templates.
 
-This conecpt improves code reusability and maintainability in these ways:
+This concept improves code reusability and maintainability in these ways:
 
 - Reduced duplication: Changes to the base template automatically apply to all child templates, making updates more efficient.
 
