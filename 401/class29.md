@@ -11,9 +11,9 @@ Some of the key benefits are greater flexibility, customization, security, scala
 It differs in several ways, including:
 
 - Fields and schema: the default comes with pre-defined fields like "username", "email", and "password". Custom allows you to create your own fields and schema.
-- Flexibility and customaziation options: are greater with the Custom User Model
-- Authentication: the default handles authenticationn using a username and password, but the Custom User Model allows you to define the authentication method.
-- Unique identifiers: the defaut users "username", but customizing allows you to use email or another identifier.
+- Flexibility and customization options: are greater with the Custom User Model
+- Authentication: the default handles authentication using a username and password, but the Custom User Model allows you to define the authentication method.
+- Unique identifiers: the default users "username", but customizing allows you to use email or another identifier.
 
 [Source](https://learndjango.com/tutorials/django-custom-user-model)
 
