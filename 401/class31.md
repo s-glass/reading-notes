@@ -17,8 +17,15 @@ These components provide consistent environments, ensure application portability
 
 **2. Describe the primary steps involved in building a library website using Django, including essential components like models, views, and templates.**
 
+- Set up project and app
+- Define models in models.py
+- Create superuser account
+- Define views functions in views.py
+- Create templates
+- Create app URL patterns in urls.py
+- Create project URL patterns in urls.py
 
-
+[Source](https://djangoforapis.com/library-website-and-api/)
 
 **3. Can you explain the primary differences between Django and Django REST framework?**
 
