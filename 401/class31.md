@@ -30,7 +30,7 @@ These components provide consistent environments, ensure application portability
 
 **3. Can you explain the primary differences between Django and Django REST framework?**
 
-Django REST is a Django extension specifically used for building APIs, whereas Django is mostly used for building applications.
+Django REST is a Django extension specifically used for building APIs, whereas Django is mostly used for building applications. Django focuses on rendering HTML pages vs Django REST, which focuses on creating APIs. Django REST extends regular Django authentication to handle API authentication and authorization. In regular Django, the default response format is HTML, whereas Django REST can handle many formats, primarily JSON.
 
 
 [Source](https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners)
