@@ -1,6 +1,7 @@
 # 401 class 31 notes
 
 **Why this matters**: This information matters because docker helps with organizing projects, it details how to create libraries with Django, and the differences between regular Django and Django REST frameworks.
+
 ------------------------------------
 
 **1. What are the key components of a Docker container, and how do they help streamline the development and deployment of applications?**
@@ -29,8 +30,10 @@ These components provide consistent environments, ensure application portability
 
 **3. Can you explain the primary differences between Django and Django REST framework?**
 
+Django REST is a Django extension specifically used for building APIs, whereas Django is mostly used for building applications.
 
 
+[Source](https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners)
 
 ------------------------------------
 ### Things I Want To Know More About:
