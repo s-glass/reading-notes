@@ -1,6 +1,6 @@
 # 401 class 31 notes
 
-**Why this matters**: This information matters because 
+**Why this matters**: This information matters because docker helps with organizing projects, it details how to create libraries with Django, and the differences between regular Django and Django REST frameworks.
 ------------------------------------
 
 **1. What are the key components of a Docker container, and how do they help streamline the development and deployment of applications?**
