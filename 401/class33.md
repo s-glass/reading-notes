@@ -1,12 +1,12 @@
 # 401 class 33 notes
 
-**Why this matters**: This information matters because 
+**Why this matters**: This information matters because JWT
 
 ------------------------------------
 
 **1. What is the primary purpose of JSON Web Tokens (JWTs) and how do they work in terms of encoding and decoding data?**
 
-JSON Web Tokens define a compact and self-contained way for securely transmitting information between parties as a JSON object. 
+JSON Web Tokens define a compact and self-contained way for securely transmitting information between parties as a JSON object.
 
 JWTs consist of three parts separated by dots: the header, the payload, and the signature. The header includes the token type (JWT) and the signing algorithm used to create the signature. This JSON object is then Base64Url encoded to form the first part of the JWT.
 
@@ -17,7 +17,10 @@ The payload has claims - statements about an entity, plus additional data.  Publ
 
 **2. How does JWT Authentication integrate with Django REST Framework to secure API endpoints, and what are the key components involved in this process?** 
 
-
+- Install `djangorestframework` and `djangorestframework-simplejwt`
+- Configure Django Settings
+- Create authentication views to be used in urls.py
+- Secure API endpoints
 
 [Source](https://simpleisbetterthancomplex.com/tutorial/2018/12/19/how-to-use-jwt-authentication-with-django-rest-framework.html)
 
