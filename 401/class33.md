@@ -1,6 +1,6 @@
 # 401 class 33 notes
 
-**Why this matters**: This information matters because JWT
+**Why this matters**: This information matters because JWT is an important tool for upgrading authentication and app security, and we need alternate options to the Django built-in runserver for larger and more complex projects.
 
 ------------------------------------
 
