@@ -1,4 +1,4 @@
-# 401 class 31 notes
+# 401 class 32 notes
 
 **Why this matters**: This information matters because DRF and SQL are both important to us understanding where to take our Django projects and APIs next.
 
