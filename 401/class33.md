@@ -26,9 +26,11 @@ The payload has claims - statements about an entity, plus additional data.  Publ
 
 **3. Why is Django’s built-in runserver not suitable for production environments, and what are some alternative server options that should be considered for deploying a Django application?**
 
+Because of security concerns, performance limitations, stability and reliability, static files handling, and scalability.
 
+You can consider Gunicorn, uWSGI, Daphne, ASGI Servers like uvicorn and Hypercorn, or FastCGI.
 
-[Source](https://vsupalov.com/django-runserver-in-production/)
+[Source](https://vsupalov.com/django-runserver-in-production/) and chatGPT help
 
 ------------------------------------
 ### Things I Want To Know More About:
