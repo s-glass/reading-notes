@@ -6,7 +6,11 @@
 
 **1. What is the primary purpose of JSON Web Tokens (JWTs) and how do they work in terms of encoding and decoding data?**
 
-JSON Web Tokens define a compact and self-contained way for securely transmitting information between parties as a JSON object.
+JSON Web Tokens define a compact and self-contained way for securely transmitting information between parties as a JSON object. 
+
+JWTs consist of three parts separated by dots: the header, the payload, and the signature. The header includes the token type (JWT) and the signing algorithm used to create the signature. This JSON object is then Base64Url encoded to form the first part of the JWT.
+
+The payload has claims - statements about an entity, plus additional data.  Public claims are custom claims that can be defined by the creator of the JWT. Private claims are used to share information between parties that agree on their usage and are neither registered nor public claims.
 
 [Source](https://jwt.io/introduction/)
 [Source](https://jwt.io/introduction#:~:text=What%20is%20JSON%20Web%20Token,because%20it%20is%20digitally%20signed.)
