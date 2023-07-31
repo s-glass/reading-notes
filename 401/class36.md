@@ -37,8 +37,6 @@
 
 - Sometimes problems are intentionally hard, where they aren't expecting you to know the answer. They want to see what kind of progress you make.
 
-- dynamic programming - 
-
 - Spend a few weeks doing interview prep, but more is not necessarily helpful. Make sure you're confident and comfortable in your DSA basics, but also work on challenging and more difficult problems.
 
 - You're hiring people on how they talk about what they've done before, not just what they have done.
