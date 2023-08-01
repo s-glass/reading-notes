@@ -15,7 +15,9 @@
 
 **2. After reading “Tailwind in 15 minutes,” can you describe the purpose of utility classes in Tailwind CSS and provide an example of how to use them to style an HTML element?**
 
-- The purpose of utility classes in Tailwind CSS is that it provides a set of pre-defined, single-purpose utility classes that can be directly applied to HTML elements in order to style them efficiently and quickly.  An example of how to use them to style an HTML element is to take a button, set it to a class, and add styling within double quotes in that <button> element. For example `<button class="bg-blue-500 text-white font-bold py-2 px-4 rounded"> ` 
+- The purpose of utility classes in Tailwind CSS is that it provides a set of pre-defined, single-purpose utility classes that can be directly applied to HTML elements in order to style them efficiently and quickly.  An example of how to use them to style an HTML element is to take a button, set it to a class, and add styling within double quotes in that <button> element. For example:
+
+``` <button class="bg-blue-500 text-white font-bold py-2 px-4 rounded">```
 
 [Source](https://www.youtube.com/watch?v=pB1oed_10IA)
 [Source](https://tailwindcss.com/docs/utility-first)
