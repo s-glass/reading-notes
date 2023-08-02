@@ -45,7 +45,10 @@ function Greeting(props) {
 
 **3. What are the main principles behind “Thinking in React” and how do they guide the process of designing and building a React application?**
 
-
+- breaking a user interface into components
+- component heirarchy and state management
+- one-way data flow
+- reusability of components
 
 
 [Source](https://react.dev/learn/thinking-in-react)
