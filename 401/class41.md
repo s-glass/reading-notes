@@ -1,4 +1,4 @@
-# 401 class 39 notes
+# 401 class 41 notes
 
 **Why this matters**: This information matters because 
 
