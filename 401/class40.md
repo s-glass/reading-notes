@@ -1,0 +1,1 @@
+# No Class 40 Reading
