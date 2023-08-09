@@ -19,5 +19,4 @@ As we begin this assignment tomorrow, I'm planning on using the following for gu
 [Source](https://kentcdodds.com/blog/first-timers-only)
 [Source](https://www.firsttimersonly.com/)
 [Source](https://www.hanselman.com/blog/get-involved-in-open-source-today-how-to-contribute-a-patch-to-a-github-hosted-open-source-project-like-code-52)
-
-And searching GH for labels like `first-time-only`
+[Source](https://hackernoon.com/how-to-find-open-source-projects-for-beginners)
