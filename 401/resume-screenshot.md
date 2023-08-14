@@ -1,1 +1,1 @@
-![Screenshot of email tagged in resume](resume-screenshot.jpg)
+![Screenshot of email tagged in resume](resume-screenshot2.jpg)
