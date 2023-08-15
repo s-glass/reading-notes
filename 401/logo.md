@@ -1,0 +1,1 @@
+![Cover My Resume Logo](logo.png)
